@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1",
+    "supertest": "^6.1.3"    
+  },
+  "scripts": {
+    "test": "mocha tests/*-test.js"
+  }
+}
