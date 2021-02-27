@@ -10,7 +10,7 @@ Then...
 npm install
 ```
 
-## run all tests
+## Run all tests
 ```bash
 npm test
 ```
